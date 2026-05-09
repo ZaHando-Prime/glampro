@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Glam Glow Hydra Serum",
+    "brand": "Glam Pro",
+    "category": "skincare",
+    "description": "A feather-light hydrating serum powered by triple hyaluronic acid and vitamin B5. Instantly quenches thirsty skin, leaving a dewy, plump finish that lasts all day.",
+    "benefits": ["deep hydration", "plumping", "radiant glow", "all skin types"],
+    "usage": "Dispense 2–3 drops onto clean fingertips and press gently into face and neck morning and evening, before moisturiser.",
+    "sponsored": true,
+    "price": 29.99,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-002",
+    "name": "Rose Velvet Lip Treatment",
+    "brand": "Glam Pro",
+    "category": "lip care",
+    "description": "An overnight lip mask infused with rosehip oil, shea butter, and ceramides. Repairs cracked, dry lips and restores a soft, pillowy texture by morning.",
+    "benefits": ["intense moisture", "repair", "softness", "anti-aging"],
+    "usage": "Apply a generous layer before bed. Wake up to soft, smooth lips. Can also be used as a daytime balm.",
+    "sponsored": true,
+    "price": 14.99,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-003",
+    "name": "Lumière Foundation SPF 30",
+    "brand": "Glam Pro",
+    "category": "makeup",
+    "description": "A buildable, medium-to-full coverage foundation with SPF 30 protection. Features a skin-like satin finish and 24-hour wear formula suitable for all skin tones.",
+    "benefits": ["full coverage", "SPF 30 sun protection", "24-hour wear", "natural finish"],
+    "usage": "Apply with a damp beauty sponge or foundation brush for buildable coverage. Blend outward from the centre of the face.",
+    "sponsored": true,
+    "price": 38.00,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-004",
+    "name": "Vitamin C Brightening Toner",
+    "brand": "Skinglow",
+    "category": "skincare",
+    "description": "An alcohol-free brightening toner with 10% vitamin C, niacinamide, and alpha-arbutin. Visibly fades dark spots and uneven skin tone in 4 weeks.",
+    "benefits": ["brightening", "dark spot reduction", "even skin tone", "pore minimising"],
+    "usage": "Apply to a cotton pad and sweep over cleansed face morning and evening. Follow with serum and moisturiser.",
+    "sponsored": false,
+    "price": 22.50,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-005",
+    "name": "Midnight Repair Eye Cream",
+    "brand": "Lumè",
+    "category": "skincare",
+    "description": "A rich eye cream with retinol, peptides, and caffeine. Targets dark circles, puffiness, and fine lines around the delicate eye area overnight.",
+    "benefits": ["dark circle reduction", "anti-puffiness", "fine line smoothing", "firming"],
+    "usage": "Using your ring finger, gently tap a pea-sized amount around the orbital bone. Use nightly.",
+    "sponsored": false,
+    "price": 34.00,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-006",
+    "name": "Curl Defining Hair Mousse",
+    "brand": "CurlCo",
+    "category": "hair care",
+    "description": "A lightweight, alcohol-free mousse that defines natural curls and waves, reduces frizz, and adds flexible hold without crunchiness.",
+    "benefits": ["curl definition", "frizz control", "flexible hold", "humidity resistance"],
+    "usage": "Apply to damp hair from roots to ends, scrunch upward, and diffuse or air-dry.",
+    "sponsored": false,
+    "price": 18.00,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-007",
+    "name": "Velvet Matte Lip Colour – Bordeaux",
+    "brand": "LipLux",
+    "category": "makeup",
+    "description": "A long-wearing, transfer-proof liquid lipstick in a deep bordeaux shade. The creamy formula sets to a velvety matte finish and keeps lips hydrated.",
+    "benefits": ["long-lasting", "transfer-proof", "hydrating matte", "rich pigment"],
+    "usage": "Line lips with a matching liner for precision. Apply from the centre outward. Allow 60 seconds to set.",
+    "sponsored": false,
+    "price": 16.99,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-008",
+    "name": "Sunscreen Fluid SPF 50+ PA++++",
+    "brand": "ShieldSkin",
+    "category": "sun care",
+    "description": "An ultra-lightweight, invisible sunscreen fluid with SPF 50+ and PA++++ protection. No white cast; suitable for all skin tones and comfortable under makeup.",
+    "benefits": ["broad-spectrum UV protection", "no white cast", "lightweight", "makeup-friendly"],
+    "usage": "Apply liberally to face and exposed skin 15 minutes before sun exposure. Reapply every 2 hours.",
+    "sponsored": false,
+    "price": 24.00,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-009",
+    "name": "Argan Oil Hair Elixir",
+    "brand": "Glam Pro",
+    "category": "hair care",
+    "description": "A luxurious blend of pure argan oil and silk proteins that tames frizz, adds mirror-like shine, and protects hair from heat damage up to 230°C.",
+    "benefits": ["frizz control", "shine boost", "heat protection", "nourishment"],
+    "usage": "Apply 2–4 drops to damp or dry hair, focusing on mid-lengths and ends. Style as usual.",
+    "sponsored": false,
+    "price": 26.50,
+    "currency": "USD"
+  },
+  {
+    "id": "prod-010",
+    "name": "Hydra-Boost Gel Moisturiser",
+    "brand": "AquaLux",
+    "category": "skincare",
+    "description": "An oil-free, water-gel moisturiser that delivers 72-hour hydration. Perfect for oily and combination skin types seeking a lightweight, non-comedogenic formula.",
+    "benefits": ["72-hour hydration", "oil-free", "non-comedogenic", "mattifying"],
+    "usage": "Apply morning and evening after serum. Use as the last step before sunscreen during the day.",
+    "sponsored": false,
+    "price": 19.99,
+    "currency": "USD"
+  }
+]

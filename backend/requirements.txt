@@ -1,0 +1,33 @@
+# ==============================================================
+# Glam Pro Beauty Assistant – Python Dependencies
+# ==============================================================
+
+# NumPy must be <2.0 – chromadb 0.5.x uses np.float_ which was
+# removed in NumPy 2.0. Pin here to avoid AttributeError on startup.
+numpy<2.0
+
+# Web framework & server
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# LLM inference (CPU-only by default)
+# For GPU (CUDA) acceleration, install with:
+#   CMAKE_ARGS="-DLLAMA_CUDA=on" pip install llama-cpp-python --force-reinstall --no-cache-dir
+# For Apple Silicon (Metal):
+#   CMAKE_ARGS="-DLLAMA_METAL=on" pip install llama-cpp-python --force-reinstall --no-cache-dir
+llama-cpp-python==0.2.79
+
+# Vector database (embedded, no server needed)
+chromadb==0.5.0
+
+# Multilingual sentence embeddings
+sentence-transformers==3.0.1
+
+# Data validation (also a FastAPI dependency, pinned for compatibility)
+pydantic==2.7.1
+
+# File upload support
+python-multipart==0.0.9
+
+# Utility
+python-dotenv==1.0.1

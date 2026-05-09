@@ -1,0 +1,23 @@
+name: glam_pro_chat_example
+description: Demonstrates integration of the glam_pro_chat Flutter package.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Reference the package from the parent directory (local path).
+  # When published to GitHub, replace with the git dependency shown below.
+  #
+  # git:
+  #   url: https://github.com/your-org/glam_pro_chat.git
+  #   ref: main
+  glam_pro_chat:
+    path: ../
+
+flutter:
+  uses-material-design: true

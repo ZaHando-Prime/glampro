@@ -1,0 +1,33 @@
+[
+  {
+    "id": "help-001",
+    "question": "How do I book an appointment?",
+    "answer": "To book an appointment: Open Glam Pro → look at the menue bar bellow → Select 'hairdresser' → Choose a hairdresser and click on it → click on the 'book now' button → choose the date and time slot → choose the location → click on the 'confirm' button. ",
+    "keywords": ["appointment", "booking", "schedule", "reserve", "confirmation", "service", "time slot"]
+  },
+  {
+    "id": "help-002",
+    "question": "How do I manage my appointment?",
+    "answer": "To manage your appointment: Open Glam Pro → look at the menu bar below → Tap 'Appointments' → Select the appointment you want to manage → Choose an action (e.g., 'Reschedule' or 'Cancel').",
+    "keywords": ["manage", "appointment", "reschedule", "cancel", "update", "change", "modify"]
+  },
+  {
+    "id": "help-003",
+    "question": "How do I update my profile photo?",
+    "answer": "To change your profile photo: Open Glam Pro → Tap 'Profile' (bottom-right) → tap on the pencil icon near your user name → tap change photo → choose if you want to take a new photo or select from your gallery → choose or take a photo then tap confirm",
+    "keywords": ["profile", "photo", "picture", "avatar", "update", "change", "image"]
+  },
+  
+  {
+    "id": "help-009",
+    "question": "How do I change the app language?",
+    "answer": "To change the app language: Tap 'Profile' → 'Settings' → 'Language' → Choose 'English' or 'العربية (Arabic)' → The app will reload in the selected language instantly. Your account data is not affected.",
+    "keywords": ["language", "arabic", "english", "لغة", "change language", "settings"]
+  },
+  {
+    "id": "help-010",
+    "question": "How do I contact customer support?",
+    "answer": "To reach customer support: Tap 'Profile' → tap on settings → 'Help & Support' → tap your problem in the order of the form then tap on send.",
+    "keywords": ["support", "help", "contact", "customer service", "agent", "chat", "email", "phone"]
+  }
+]

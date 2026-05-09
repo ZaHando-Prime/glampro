@@ -1,0 +1,26 @@
+name: glam_pro_chat
+description: >
+  A self-contained, reusable Flutter chat widget for the Glam Pro Beauty Assistant.
+  Drop-in integration with any Flutter app via a single GlamProChat widget.
+version: 0.1.0
+homepage: https://github.com/your-org/glam_pro_chat
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  provider: ^6.1.2
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
